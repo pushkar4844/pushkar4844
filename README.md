@@ -1,7 +1,3 @@
-Cloud Solutions Architect @ ReachMobi
-
----
-
 ## About Me
 
 Cloud Solutions Architect with proven expertise across Multi-Cloud, Kubernetes, DevOps, SAP and .NET on AWS—specializing in building secure, scalable, and cost-optimized cloud architectures that support high-availability enterprise systems.
