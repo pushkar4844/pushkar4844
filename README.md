@@ -24,22 +24,16 @@ I enjoy working closely with stakeholders—from C-level executives to dev teams
 
 ## Certifications
 
-| Certification | Issuer | Credential ID | Issued |
-|--------------|--------|----------------|--------|
-| ![AWS](https://img.shields.io/badge/-AWS%20DevOps%20Engineer%20Professional-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | c38e7ef3979d427c9699c114681a6cc6 | Feb 2025 |
-| ![Google](https://img.shields.io/badge/-Cloud%20Digital%20Leader-black?style=flat&logo=google&logoColor=white) | Google | 96232515 | Feb 2024 |
-| ![Linux Foundation](https://img.shields.io/badge/-CKAD-black?style=flat&logo=linux-foundation&logoColor=white) | The Linux Foundation | — | Jan 2024 |
-| ![HashiCorp](https://img.shields.io/badge/-Terraform%20Associate-black?style=flat&logo=terraform&logoColor=white) | HashiCorp | — | Nov 2023 |
-| ![AWS](https://img.shields.io/badge/-ML%20Specialty-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 1CQ5RJWL1E11QMCJ | Sep 2020 *(expired)* |
-| ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Associate-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 644CTSVKHB41QL9Y | Jan 2019 *(expired)* |
-| ![AWS](https://img.shields.io/badge/-Developer%20Associate-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 860LS3L1N1E41QSP | Jul 2020 *(expired)* |
-| ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Professional-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 8PLN6B6C3EVEQFWM | Jun 2020 *(expired)* |
-
----
-
-## Technologies
-
-AWS · Terraform · Kubernetes · GitLab CI/CD · Docker · Prometheus · Grafana · CloudWatch · ArgoCD · Jenkins · Redshift · Lambda · S3 · DynamoDB
+| Certification | Issuer | Verification |
+|--------------|--------|--------------|
+| AWS Certified DevOps Engineer - Professional | AWS | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/c38e7ef3979d427c9699c114681a6cc6) |
+| AWS Certified Solutions Architect - Professional | AWS | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/8PLN6B6C3EVEQFWM) |
+| AWS Certified Solutions Architect - Associate | AWS | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/644CTSVKHB41QL9Y) |
+| AWS Certified Developer - Associate | AWS | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/860LS3L1N1E41QSP) |
+| AWS Certified Machine Learning - Specialty | AWS | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/1CQ5RJWL1E11QMCJ) |
+| Cloud Digital Leader | Google | [Verify](https://www.credential.net/b96174bf-0d88-497c-8e9c-eed6cc80282b) |
+| CKAD: Certified Kubernetes Application Developer | Linux Foundation | [Verify](https://www.credly.com/badges/bc4cec72-6226-435c-a9c3-1f94625081b0/linked_in_profile) |
+| Terraform Associate | HashiCorp | [Verify](https://www.credly.com/badges/e0b8407e-20cc-46ec-a215-6cb5a0a89b1a/public_url) |
 
 ---
 
