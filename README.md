@@ -1,5 +1,3 @@
-# Hi, I'm Pushkar Patil
-
 Cloud Solutions Architect @ ReachMobi
 
 ---
