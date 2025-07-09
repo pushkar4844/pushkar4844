@@ -6,18 +6,9 @@ Cloud Solutions Architect @ ReachMobi
 
 ## About Me
 
-Cloud Solutions Architect with proven expertise across AWS, Kubernetes, DevOps, and SAP on AWS—specializing in building secure, scalable, and cost-optimized cloud architectures that support high-availability enterprise systems. 
+Cloud Solutions Architect with proven expertise across AWS, Kubernetes, DevOps, and SAP on AWS—specializing in building secure, scalable, and cost-optimized cloud architectures that support high-availability enterprise systems.
 
 I lead complex migrations, hybrid cloud strategies, and cloud-native modernization using Infrastructure as Code, serverless, and containerized microservices, while championing DevSecOps, Well-Architected Reviews, and cross-functional collaboration to deliver innovation and business impact.
----
-
-## Core Expertise
-
-- Designing resilient cloud architectures using AWS, Terraform, and Kubernetes  
-- Automating infrastructure provisioning and application delivery pipelines  
-- Improving cost efficiency through cloud-native observability and optimization  
-- Leading modernization and migration initiatives for enterprise workloads  
-- Enabling GitOps and DevSecOps practices at scale  
 
 ---
 
