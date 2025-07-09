@@ -1,6 +1,6 @@
 # Hi, I'm Pushkar Patil
 
-Cloud Solutions Architect @ ReachMobi | AWS Community Builder | 5x AWS Certified | Terraform Associate | CKAD | MS @ San Jose State University
+Cloud Solutions Architect @ ReachMobi
 
 ---
 
