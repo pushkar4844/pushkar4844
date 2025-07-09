@@ -1,62 +1,52 @@
-# 👋 Hi, I'm Pushkar Patil
+# Hi, I'm Pushkar Patil
 
-🚀 Cloud Solutions Architect @ ReachMobi | 🏆 AWS Community Builder | ☁️ 5x AWS Certified | 🔧 Terraform Associate | 🧠 CKAD | 🎓 MS @ San Jose State University
-
----
-
-## 🧩 About Me
-
-I'm a hands-on Cloud Architect with 5+ years of experience designing, implementing, and optimizing cloud-native solutions across AWS, GCP, and OCI. My work spans serverless applications, Kubernetes-based workloads, SAP on AWS, and large-scale infrastructure modernization projects.
-
-I specialize in:
-- 🔐 Secure and scalable cloud architectures
-- ☸️ Kubernetes + GitOps (ArgoCD, Flux)
-- 🛠️ DevOps automation (Terraform, GitLab CI, Jenkins)
-- 🔍 Observability (Prometheus, Grafana, EFK, CloudWatch)
-- 💸 Cost optimization and AWS Well-Architected Reviews
+Cloud Solutions Architect @ ReachMobi | AWS Community Builder | 5x AWS Certified | Terraform Associate | CKAD | MS @ San Jose State University
 
 ---
 
-## 🌟 Highlights
+## About Me
 
-- 👨‍💼 Acted as a bridge between engineering teams and C-level executives to drive cloud adoption strategies.
-- ⚙️ Built automated CI/CD pipelines with GitLab OIDC & AWS CodePipeline, reducing deployment time by 60%.
-- 🧪 Delivered PoCs on GKE, OKE, and EKS; implemented Landing Zones, DR, and zero-trust auth with Keycloak.
-- 📊 Designed Redshift observability with Amazon Managed Prometheus, cutting costs by 35%.
-- 🏗️ Migrated Lambda workloads to .NET 8 and deployed SAP S/4HANA using AWS Launch Wizard.
+I'm a hands-on cloud architect with over 5 years of experience designing, building, and optimizing cloud-native infrastructure across AWS, GCP, and OCI. I focus on scalable, secure, and cost-effective architectures that align with business goals and engineering needs.
+
+I enjoy working closely with stakeholders—from C-level executives to dev teams—to solve real problems with practical solutions. My core strengths include infrastructure automation, Kubernetes-based application platforms, and DevSecOps.
 
 ---
 
-## 🔧 Technologies
+## Core Expertise
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23e6522c.svg?style=flat&logo=prometheus&logoColor=white)
-
----
-
-## 📚 Recent Work
-
-- [`🚀 ElastiCache NAT Access`](https://lnkd.in/gq9GRiKe): Accessing Redis without VPN or Direct Connect
-- [`📊 Kubernetes Autoscaling`](https://www.linkedin.com/feed/update/urn:li:activity:7067424797448398848/): How to get it right & avoid bill shock
+- Designing resilient cloud architectures using AWS, Terraform, and Kubernetes  
+- Automating infrastructure provisioning and application delivery pipelines  
+- Improving cost efficiency through cloud-native observability and optimization  
+- Leading modernization and migration initiatives for enterprise workloads  
+- Enabling GitOps and DevSecOps practices at scale  
 
 ---
 
-## 📫 Let's Connect
+## Certifications
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/patilpushkar-1998/)
-- 📝 [Medium](https://medium.com/@pushkar7288)
-- 🧑‍💻 [GitHub](https://github.com/pushkar4844)
-- 📬 Email: pushkar7288@gmail.com
+| Certification | Issuer | Credential ID | Issued |
+|--------------|--------|----------------|--------|
+| ![AWS](https://img.shields.io/badge/-AWS%20DevOps%20Engineer%20Professional-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | c38e7ef3979d427c9699c114681a6cc6 | Feb 2025 |
+| ![Google](https://img.shields.io/badge/-Cloud%20Digital%20Leader-black?style=flat&logo=google&logoColor=white) | Google | 96232515 | Feb 2024 |
+| ![Linux Foundation](https://img.shields.io/badge/-CKAD-black?style=flat&logo=linux-foundation&logoColor=white) | The Linux Foundation | — | Jan 2024 |
+| ![HashiCorp](https://img.shields.io/badge/-Terraform%20Associate-black?style=flat&logo=terraform&logoColor=white) | HashiCorp | — | Nov 2023 |
+| ![AWS](https://img.shields.io/badge/-ML%20Specialty-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 1CQ5RJWL1E11QMCJ | Sep 2020 *(expired)* |
+| ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Associate-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 644CTSVKHB41QL9Y | Jan 2019 *(expired)* |
+| ![AWS](https://img.shields.io/badge/-Developer%20Associate-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 860LS3L1N1E41QSP | Jul 2020 *(expired)* |
+| ![AWS](https://img.shields.io/badge/-Solutions%20Architect%20Professional-black?style=flat&logo=amazon-aws&logoColor=white) | AWS | 8PLN6B6C3EVEQFWM | Jun 2020 *(expired)* |
 
 ---
 
-## ✨ Fun Fact
+## Technologies
 
-I'm passionate about bridging tech and impact — from building blind-assistance devices with Jetson Nano to running cloud workshops and mentoring early-stage DevOps professionals.
+AWS · Terraform · Kubernetes · GitLab CI/CD · Docker · Prometheus · Grafana · CloudWatch · ArgoCD · Jenkins · Redshift · Lambda · S3 · DynamoDB
 
-> “The best architectures are the ones that scale minds, not just systems.”  
+---
+
+## Connect with Me
+
+- LinkedIn: [linkedin.com/in/patilpushkar-1998](https://www.linkedin.com/in/patilpushkar-1998/)
+- Medium: [medium.com/@patilpushkar98](https://medium.com/@patilpushkar98)
+- GitHub: [github.com/pushkar4844](https://github.com/pushkar4844)
+- Email: pushkar7288@gmail.com
 
